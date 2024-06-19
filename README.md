@@ -5,3 +5,4 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
 ## Data Structures
 
 - Arrays
+- Hash Tables

@@ -7,3 +7,4 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
 - Arrays
 - Hash Tables
 - Linked Lists (Singly/Doubly)
+- Stacks

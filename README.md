@@ -8,3 +8,4 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
 - Hash Tables
 - Linked Lists (Singly/Doubly)
 - Stacks
+- Queues

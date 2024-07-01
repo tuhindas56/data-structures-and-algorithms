@@ -11,3 +11,8 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
 - Queues
 - Trees
 - Graphs
+
+## Algorithms
+
+- Sorting
+  - Bubble Sort

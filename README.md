@@ -17,3 +17,4 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
 - Sorting
   - Bubble Sort
   - Selection Sort
+  - Insertion Sort

@@ -19,3 +19,5 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
   - Selection Sort
   - Insertion Sort
   - Merge Sort
+- Searching
+  - Breadth First Search

@@ -21,3 +21,4 @@ This repository contains all the **Data Structures** and **Algorithms** I've lea
   - Merge Sort
 - Searching
   - Breadth First Search
+  - Depth First Search
